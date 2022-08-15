@@ -3,6 +3,8 @@
 Learning Rust by doodling around with Nannou.
 Starting Point [Schotter Repo](https://github.com/sidwellr/schotter)
 
+![Alt text](schotter1/001.png?raw=true "Schotter1")
+
 #### Noob Gotchas
 
 I first forgot to add adding 'resolver=2' to the top level Cargo.toml.
