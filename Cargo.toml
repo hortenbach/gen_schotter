@@ -1,3 +1,6 @@
 [workspace]
 
-members = []
+members = [
+    "schotter1"
+]
+resolver="2"
